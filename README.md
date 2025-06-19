@@ -55,4 +55,4 @@ You can download the result CSV directly here:
 
 - You may need to install required Python libraries using:
   ```bash
-  pip install pyodbc pandas
+  pip install pyodbc pandas sqlalchemy
