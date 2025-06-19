@@ -1,5 +1,13 @@
 # Python-SQL-Project 
-# ETL-Project
+# ETL - Project
+
+📊 **ETL Pipeline: Kaggle → Python → MS SQL Server**  
+This project demonstrates a complete ETL (Extract, Transform, Load) workflow:
+- Extracted data from **Kaggle** using the **Kaggle API key**
+- Transformed and cleaned the dataset using **Python (Pandas)**
+- Loaded the refined data into **Microsoft SQL Server**
+- Performed structured SQL queries (including CTEs)
+- Connected back to Python using **SQLAlchemy** and **pyodbc** for analysis
 
 # 🗃️ SQL Server + Python Integration Project
 
